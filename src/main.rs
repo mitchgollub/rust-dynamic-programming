@@ -10,5 +10,8 @@ fn main() {
     // grid_traveler::grid_traveler_example();
 
     // Can Sum Memoization
-    can_sum::can_sum_example();
+    // can_sum::can_sum_example();
+
+    // How Sum Memoization
+    how_sum::how_sum_example();
 }
